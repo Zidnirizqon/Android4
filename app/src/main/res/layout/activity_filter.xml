@@ -49,7 +49,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
                 android:background="@color/purple_200"
-                android:textColor="@color/white"
+                android:textColor="@color/white"/>
 
         </com.dd.ShadowLayout>
     </com.andexert.library.RippleView>
